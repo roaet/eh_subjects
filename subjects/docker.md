@@ -1,4 +1,4 @@
-docker
+[//]: # (docker)
 Docker Shortcuts
 
 - Stop all containers quickly: `docker stop $(docker ps -a -q)`

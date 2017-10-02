@@ -1,4 +1,4 @@
-bash
+[//]: # (bash)
 Keyboard shortcuts for bash cursor movement:
 
 - Ctrl + A *Go to the beginning of the line you are currently typing on*

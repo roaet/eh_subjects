@@ -1,4 +1,4 @@
-find
+[//]: # (find)
 Find Examples
 
 - Find by name or extension: `find /home/username/ -name "*.err"`
