@@ -4,7 +4,7 @@ Subjects for the eh program
 
 Example Subject and Syntax:
 
-```
+~~~
 sample, testing
 #Sample Subject
 This is a sample subject for eh. Subjects use basic markdown syntax. The
@@ -25,4 +25,4 @@ You can make a list with this format:
 - have the single line whitespace above after the ':'
 - prefix with some character like '-' or '*'
 - you can also use numbers like: 1., 2., etc.
-```
+~~~
