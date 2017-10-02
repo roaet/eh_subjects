@@ -7,6 +7,7 @@ Example Subject and Syntax:
 ~~~
 sample, testing
 #Sample Subject
+
 This is a sample subject for eh. Subjects use basic markdown syntax. The
 only exception is that the two things on line 1, 'sample, testing', are the
 'triggers' that eh will look for when someone types `eh <subject>`. In this
