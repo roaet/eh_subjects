@@ -1,4 +1,6 @@
 [//]: # (alembic)
+Alembic Quick Usage
+
 - To upgrade to current: `alembic upgrade head`
 - To downgrade to start: `alembic downgrade base`
 - To create a new manual revision: `alembic revision -m "Message here"`
