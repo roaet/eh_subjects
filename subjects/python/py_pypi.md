@@ -1,4 +1,4 @@
-[//]: # (pypi)
+[//]: # (pypi) Uploading packages to pypi
 Pypi help
 
 1. New pypi requires that you use twine: `pip install twine`

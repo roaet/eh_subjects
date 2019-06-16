@@ -1,4 +1,4 @@
-[//]: # (small_cheat)
+[//]: # (small_cheat) Shorter cheatsheet for git
 Git Quick Usage:
 
 - Initialize Git: `git init`

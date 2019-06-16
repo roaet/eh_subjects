@@ -1,4 +1,4 @@
-[//]: # (vim)
+[//]: # (vim) Cheatsheet for vim
 How to use vim Macros (quick start):
 
 - Create a recording on register **d**: `qd`

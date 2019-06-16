@@ -1,4 +1,4 @@
-[//]: # (big_cheat)
+[//]: # (big_cheat) Huge cheatsheet for git
 
 # Git
 
