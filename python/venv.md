@@ -1,4 +1,4 @@
-[//]: # (venv) Making virtual environments for python 2/3
+[//]: # (python, venv) Making virtual environments for python 2/3
 Python virtual-environments
 
 - To create python3 virtual env: `python3 -m venv .venv`

@@ -1,4 +1,4 @@
-[//]: # (find) Some find examples
+[//]: # (bash, find) Some find examples
 Find Examples
 
 - Find by name or extension: `find /home/username/ -name "*.err"`

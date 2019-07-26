@@ -1,4 +1,4 @@
-[//]: # (alembic) Cheatsheet for alembic (SQLAlchemy migrations)
+[//]: # (python, alembic) Cheatsheet for alembic (SQLAlchemy migrations)
 Alembic Quick Usage
 
 - To upgrade to current: `alembic upgrade head`
