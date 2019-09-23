@@ -2,5 +2,5 @@
 
 - tmux: `console multiplexer`
 - neovim: `a better version of vim (debatedly)`
-- pandoc: `a document convertor I use for RST->MD`
+- pandoc: `a document convertor I use for RST to MD`
 - mdless: `a markdown renderer`
