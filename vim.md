@@ -1,4 +1,26 @@
 [//]: # (vim) Cheatsheet for vim
+Quick tips:
+
+- Convert vi/vim tabs to spaces: `:1,$s/\t/ /g`
+    - Remove the `g` to only do the first tab on each line
+- Open last edited file: `CTRL+o+o`
+- Output shell command (`ls` in this case): `:r !ls`
+- Write to file when you forgot to sudo: `:w !sudo tee %`
+- Scoll screen to make current line (of window)
+    - `zz` the middle
+    - `zt` the top
+    - `zb` the bottom
+- Go to older/new positions (from jumping around): `^O` or `^I`
+- Go to last Insert mode position: `gi`
+- Open file under cursor: `gf`
+- Open file:linenumber under cursor: `gF`
+
+Delete Tricks:
+
+- Delete the current word: `diw`
+- Delete within the current parentheses: `di(`
+- Delete within the quotes: `di"`
+
 How to use vim Macros (quick start):
 
 - Create a recording on register **d**: `qd`
