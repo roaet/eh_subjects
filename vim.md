@@ -1,6 +1,9 @@
 [//]: # (vim) Cheatsheet for vim
 Quick tips:
 
+- Mark a position as {a-z}: `m {a-z}`
+- Move to a position {a-z}: `' {a-z}`
+- Move to previous position: `"`
 - Convert vi/vim tabs to spaces: `:1,$s/\t/ /g`
     - Remove the `g` to only do the first tab on each line
 - Open last edited file: `CTRL+o+o`
