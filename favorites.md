@@ -4,3 +4,4 @@
 - neovim: `a better version of vim (debatedly)`
 - pandoc: `a document convertor I use for RST to MD`
 - mdless: `a markdown renderer`
+- sncli: `a simple note CLI program`
