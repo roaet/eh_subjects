@@ -7,7 +7,7 @@ Pypi help
 
 ```
 If you have issues making a release version (one without -devblah), do this:
-git tag X.Y.Z -m "Some message"
+git tag -a X.Y.Z -m "Some message"
 
 It is important you do not put a v in front of the X.Y.Z!
 ```
