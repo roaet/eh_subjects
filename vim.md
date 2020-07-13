@@ -43,3 +43,8 @@ In normal mode:
 - The `0` register is populated with **only** yanks
 - The `"` register is also populated with `d/D/x/X/c/C/s/S`
 - Use `:reg` to view the values in the registers
+
+How to replace tabs with spaces:
+
+- `:set tabstop=4 shiftwidth=4 expandtab`
+- `:retab`
