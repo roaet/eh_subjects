@@ -1,8 +1,10 @@
 [//]: # (go, golang, basic) Basic go syntax
 Basic go syntax
 
-- For
+- For loop with index/value or key/value
 
 ```
-Test
+for i, j := range iterable {
+
+}
 ```
