@@ -3,8 +3,6 @@ Basic go syntax
 
 - For loop with index/value or key/value
 
-```
-for i, j := range iterable {
-
-}
-```
+> for i, j := range iterable {
+>   // stuff 
+> }
